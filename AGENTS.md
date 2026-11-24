@@ -1,5 +1,7 @@
 # Agent Guidelines for the PipeWire Project
 
+**Rulebook:** follow the Aurora Silicon rulebook, https://github.com/aurora-silicon/agent-guidelines/blob/main/AGENTS.md. It applies to every agent and contributor, whoever runs them. This file adds the repo specifics.
+
 PipeWire is a server and user space API to deal with multimedia pipelines. Due
 to the complexity of the domain and codebase, and the interactions therein, the
 PipeWire project relies extensively on the effort of **human reviewers**, which
